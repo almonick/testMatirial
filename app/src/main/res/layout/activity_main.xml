@@ -46,7 +46,13 @@
             </android.support.design.widget.CollapsingToolbarLayout>
         </android.support.design.widget.AppBarLayout>
 
+        <FrameLayout
+            android:id="@+id/frame"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
 
+        </FrameLayout>
 
         <!-- Your Scrollable View -->
         <include layout="@layout/cardviews"/>
@@ -64,12 +70,10 @@
     </android.support.design.widget.CoordinatorLayout>
 
     <android.support.design.widget.NavigationView
-        android:id="@+id/navigation"
+        android:id="@+id/navigation_view"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        app:headerLayout="@layout/nav_header"
-        app:itemTextColor="#333"
-        app:itemIconTint="#333"
+        app:headerLayout="@layout/navigation_header"
         app:menu="@menu/navigation_drawer_items" />
 </android.support.v4.widget.DrawerLayout>

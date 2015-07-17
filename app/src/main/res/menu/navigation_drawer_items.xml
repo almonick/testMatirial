@@ -3,20 +3,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.hmkcode.mongoz.MainActivity" >
 
-    <group android:checkableBehavior="all">
+    <group android:checkableBehavior="single">
 	    <item
-	        android:id="@+id/navigation_item_1"
-	        android:icon="@drawable/ic_action_location_found_dark"
-	        android:title="Toolbar"/>
+	        android:id="@+id/navigation_inbox"
+	        android:icon="@drawable/ic_inbox_black"
+			android:checked="false"
+	        android:title="Inbox"/>
 	    <item
-	        android:id="@+id/navigation_item_2"
-	        android:icon="@drawable/ic_action_location_found_dark"
-	        android:title="FloatActionButton"/>
+	        android:id="@+id/navigation_star"
+	        android:icon="@drawable/ic_star_black"
+			android:checked="false"
+	        android:title="Star"/>
 	    
 	    <item
-	        android:id="@+id/navigation_item_3"
-	        android:icon="@drawable/ic_action_location_found_dark"
-	        android:title="NavigationView"/>
+	        android:id="@+id/navigation_send"
+	        android:icon="@drawable/ic_send_black"
+			android:checked="false"
+	        android:title="Send"/>
 	</group>
 
 </menu>
