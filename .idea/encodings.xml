@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/cardview_border.xml" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_action_location_found.png" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_action_location_found_dark.png" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_menu.png" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/cardviews.xml" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/nav_header.xml" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/navigation_drawer_items.xml" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v21/colors.xml" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="windows-1255" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
